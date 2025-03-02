@@ -61,7 +61,7 @@ Includes T1, T2, Flair, and T1c MRI modalities.
 
 Step 1: Clone the repository
 
-git clone https://github.com/your-username/brain-tumor-ai.git
+git clone https://github.com/ruturaj/brain-tumor-ai.git
 cd brain-tumor-ai
 
 Step 2: Install dependencies
